@@ -1,5 +1,5 @@
 # Twitter Sentiment Analysis Using ELK Stack and Python
-Analyse et calcule du sentiment de chaque tweet et créer un tableau de bord en temps réel à l'aide de la base de données Elasticsearch et de Kibana pour visualiser les résultats.
+Analyze and calculate the sentiment of each tweet and create a real-time dashboard using the Elasticsearch database and Kibana to visualize the results.
 
 ## Prerequisites
 * Install and setup [ELK Stack](https://www.elastic.co/products/elasticsearch)
